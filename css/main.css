@@ -1,0 +1,21 @@
+body{
+  background-color: cyan  ;
+}
+nav {
+	background-color: pink;
+}
+nav ul li a {
+	transition: 0.5s ease;
+}
+nav ul li a:hover {
+	color: white;
+}
+li {
+	display: inline-block;
+	margin: 30px;
+}
+div button {
+	display: inline-block;
+	margin-right: 35px;
+	text-align: center;
+}
